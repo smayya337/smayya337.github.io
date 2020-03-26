@@ -22,15 +22,20 @@ organizations:
   url: "https://tjhsst.fcps.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I'm a sophomore at TJHSST with a wide variety of interests ranging from Linux systems administration to music composition.
 
 # Should the user's education and interests be displayed?
 display_education: false
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Linux Administration
+- Thermodynamics
+- Cryptography
+- Acoustics
+- Clarinet Performance
+- Music Composition
+- Photography
+- Latin
 
 education:
   courses:
@@ -49,6 +54,12 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/smayya337
+- icon: instagram
+  icon_pack: fab
+  link: https://instagram.com/smayya337
+- icon: reddit
+  icon_pack: fab
+  link: https://reddit.com/u/smayya337
 # - icon: google-scholar
 #   icon_pack: ai
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -62,7 +73,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "smayya337@gmail.com"
+# email: "smayya337@gmail.com"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
@@ -72,7 +83,16 @@ user_groups:
 - Band
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+As you can see, there's a whole lot of stuff to do
 
+Before school starts this fall
 
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum. The point of using Lorem Ipsum. distracted by the readable content of a page.
+So stick with us, because Shreyas hopefully is
+
+Gonna do them all *dun dun dun*
+
+So stick with us, because Shreyas hopefully is
+
+Gonna do them all!
+
+**Website under development!**
