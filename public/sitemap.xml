@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://academia-hugo.netlify.com/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://academia-hugo.netlify.com/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://academia-hugo.netlify.com/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://academia-hugo.netlify.com/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://academia-hugo.netlify.com/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://academia-hugo.netlify.com/authors/</loc>
+  </url>
+  
+  <url>
+    <loc>https://academia-hugo.netlify.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://academia-hugo.netlify.com/courses/</loc>
+  </url>
+  
+  <url>
+    <loc>https://academia-hugo.netlify.com/post/</loc>
+  </url>
+  
+  <url>
+    <loc>https://academia-hugo.netlify.com/publication_types/</loc>
+  </url>
+  
+  <url>
+    <loc>https://academia-hugo.netlify.com/publication/</loc>
+  </url>
+  
+  <url>
+    <loc>https://academia-hugo.netlify.com/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://academia-hugo.netlify.com/tags/</loc>
+  </url>
+  
+</urlset>
