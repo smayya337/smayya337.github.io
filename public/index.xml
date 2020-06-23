@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shreyas Mayya</title>
+    <link>/</link>
+    <description>Recent content on Shreyas Mayya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 Jun 2020 10:15:15 -0400</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello</title>
+      <link>/posts/hello/</link>
+      <pubDate>Tue, 23 Jun 2020 10:15:15 -0400</pubDate>
+      
+      <guid>/posts/hello/</guid>
+      <description>Welcome to my blog! I&amp;rsquo;ll be the first to admit I&amp;rsquo;m not used to writing about my life, so instead of some recollection of some distant memory I&amp;rsquo;ll just make up some questions and answer them.
+Why did you make a blog? I&amp;rsquo;ve been considering creating a blog for some time now. It seemed like a good way of sharing my thoughts while gaining the catharsis that comes with expressing myself.</description>
+    </item>
+    
+  </channel>
+</rss>
