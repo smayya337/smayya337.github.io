@@ -21,6 +21,23 @@ disqusShortname = "smayya337"
 # googleAnalytics = "UA-123-45"
 paginate = 5
 canonifyurls = true
+fontsUseGoogleApis = "true"
+
+[params.googleApiFonts.family]
+  tagsText        = [ "html", "body" ]
+  tagsHeading     = [ "h1", "h2", "h3", "h4", "h5", "h6" ]
+  fallbackText    = "html"
+  fallbackHeading = "heading"
+
+[params.googleApiFonts.family.html]
+  sans-serif    = "Roboto"
+  serif         = "Roboto Slab"
+  monospace     = "Roboto Mono"
+
+[params.googleApiFonts.family.heading]
+  sans-serif    = "Roboto"
+  serif         = "Roboto Slab"
+  monospace     = "Roboto Mono"
 
 [permalinks]
   post = "/:year/:month/:slug/"
@@ -32,7 +49,7 @@ canonifyurls = true
 
 [author]
   name = "Shreyas Mayya"
-  bio = ""
+  bio = "Hello! I'm Shreyas. I'm currently a rising junior at the Thomas Jefferson High School for Science and Technology in Alexandria, VA."
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
   gravatarEmail = "smayya337@gmail.com"
   # Your profile picture
@@ -130,7 +147,7 @@ canonifyurls = true
   # If false it will flat categories.
   hierarchicalCategories = true
 
-  description = "Hugo tranquilpeak theme demo"
+  description = "Shreyas Mayya's website and blog!"
 
   # Customization
   # Define the behavior of the sidebar
