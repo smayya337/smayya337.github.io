@@ -1,0 +1,3 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:smayya337/smayya337.github.io
