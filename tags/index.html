@@ -13,10 +13,10 @@
 
 <meta property="og:description" content="Hugo tranquilpeak theme demo">
 <meta property="og:type" content="website">
-<meta property="og:title" content="Shreyas Mayya">
-<meta name="twitter:title" content="Shreyas Mayya">
-<meta property="og:url" content="/">
-<meta property="twitter:url" content="/">
+<meta property="og:title" content="Tags">
+<meta name="twitter:title" content="Tags">
+<meta property="og:url" content="/tags/">
+<meta property="twitter:url" content="/tags/">
 <meta property="og:site_name" content="Shreyas Mayya">
 <meta property="og:description" content="Hugo tranquilpeak theme demo">
 <meta name="twitter:description" content="Hugo tranquilpeak theme demo">
@@ -43,16 +43,16 @@
   <meta property="twitter:image" content="https://www.gravatar.com/avatar/59631d6bde13fa8876b6e3dc220e0c51?s=640">
 
 
-    <title>Shreyas Mayya</title>
+    <title>Tags</title>
 
     <link rel="icon" href="/favicon.png">
     
-      <link rel="alternate" type="application/rss+xml" title="RSS" href="/index.xml">
+      <link rel="alternate" type="application/rss+xml" title="RSS" href="/tags/index.xml">
     
 
     
 
-    <link rel="canonical" href="/">
+    <link rel="canonical" href="/tags/">
 
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=" crossorigin="anonymous" />
@@ -224,12 +224,23 @@
         class="
                hasCoverMetaIn
                ">
-        <section class="postShorten-group main-content-wrap">
-          
-          
-          
 
-        </section>
+        <div id="tags-archives" class="main-content-wrap">
+          <form id="filter-form" action="#">
+            <input name="tag" type="text" class="form-control input--xlarge" placeholder="Search tag" autofocus="autofocus">
+          </form>
+          <h4 class="archive-result text-color-base text-xlarge"
+              data-message-zero="no tag found"
+              data-message-one="1 tag found"
+              data-message-other="{n} tags found"></h4>
+
+            <section>
+              
+            </section>
+            <section class="boxes">
+              
+           </section>
+         </div>
         <footer id="footer" class="main-content-wrap">
   <span class="copyrights">
     &copy; 2020 Shreyas Mayya. All Rights Reserved
@@ -238,7 +249,6 @@
 
       </div>
     </div>
-    
     <div id="about">
   <div id="about-card">
     <div id="about-btn-close">
@@ -255,8 +265,6 @@
 </div>
 
     
-
-    
   
     
       <div id="cover" style="background-image:url('/images/plasma-519-flow.jpg');"></div>
@@ -264,7 +272,8 @@
   
 
 
-    
+  </body>
+  
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw=" crossorigin="anonymous"></script>
@@ -306,7 +315,4 @@ $(document).ready(function() {
 
 
 
-    
-  </body>
 </html>
-
