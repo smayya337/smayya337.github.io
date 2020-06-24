@@ -5,13 +5,6 @@ draft: false
 categories:
 - Blog
 - Tech
-tags:
-- hello
-- hugo
-- gimp
-- friends
-- blog
-- q+a
 keywords:
 - hello
 - hugo

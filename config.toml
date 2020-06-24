@@ -53,20 +53,20 @@ canonifyurls = true
   name = "Categories"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-bookmark\"></i>"
   url = "/categories"
+# [[menu.main]]
+#   weight = 3
+#   identifier = "tags"
+#   name = "Tags"
+#   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-tags\"></i>"
+#   url = "/tags"
 [[menu.main]]
   weight = 3
-  identifier = "tags"
-  name = "Tags"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-tags\"></i>"
-  url = "/tags"
-[[menu.main]]
-  weight = 4
   identifier = "archives"
   name = "Archives"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-archive\"></i>"
   url = "/archives"
 [[menu.main]]
-  weight = 5
+  weight = 4
   identifier = "about"
   name = "About"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-question\"></i>"
@@ -100,12 +100,12 @@ canonifyurls = true
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-twitter\"></i>"
   url = "https://twitter.com/smayya337"
 
-[[menu.links]]
-  weight = 1
-  identifier = "reddit"
-  name = "Reddit"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-reddit\"></i>"
-  url = "reddit.com/u/smayya337"
+# [[menu.links]]
+#   weight = 1
+#   identifier = "reddit"
+#   name = "Reddit"
+#   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-reddit\"></i>"
+#   url = "reddit.com/u/smayya337"
 
 [params]
   # Customize date format use to render blog post date, categories and other
