@@ -10,15 +10,15 @@ keywords:
 - hugo
 - blog
 ---
-Welcome to my blog! I'll admit I'm not used to writing about my life, so instead of a recollection of some distant memory I'll just make up a few questions and answer them.
+Welcome to my blog! I\'ll admit I\'m not used to writing about my life, so instead of a recollection of some distant memory I\'ll just make up a few questions and answer them.
 
 ## Why did you make a blog?
 
-I'd been considering creating a blog for some time now. It seemed like a good way of sharing my thoughts while gaining the catharsis that comes with expressing myself. However, I'm also a painfully reserved person, and my fear of opening up kept me from making this site earlier. I suppose what really got me to do this was seeing some of my friends make [their own blogs](https://michellecdu.wixsite.com/musingswithmichelle).
+I\'d been considering creating a blog for some time now. It seemed like a good way of sharing my thoughts while gaining the catharsis that comes with expressing myself. However, I\'m also a painfully reserved person, and my fear of opening up kept me from making this site earlier. I suppose what really got me to do this was seeing some of my friends make [their own blogs](https://michellecdu.wixsite.com/musingswithmichelle).
 
 ## What are you going to post on here?
 
-I don't really know. Whatever I feel like posting, I guess.
+I don\'t really know. Whatever I feel like posting, I guess.
 
 ## How did you make this site?
 
