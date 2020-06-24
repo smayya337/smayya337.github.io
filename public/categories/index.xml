@@ -6,10 +6,37 @@
     <description>Recent content in Categories on Shreyas Mayya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Jun 2020 10:15:15 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2020 09:50:26 -0400</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Introspection</title>
+      <link>/categories/introspection/</link>
+      <pubDate>Wed, 24 Jun 2020 09:50:26 -0400</pubDate>
+      
+      <guid>/categories/introspection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Science</title>
+      <link>/categories/science/</link>
+      <pubDate>Wed, 24 Jun 2020 09:50:26 -0400</pubDate>
+      
+      <guid>/categories/science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Why?</title>
+      <link>/categories/why/</link>
+      <pubDate>Wed, 24 Jun 2020 09:50:26 -0400</pubDate>
+      
+      <guid>/categories/why/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Blog</title>

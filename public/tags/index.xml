@@ -6,64 +6,9 @@
     <description>Recent content in Tags on Shreyas Mayya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Jun 2020 10:15:15 -0400</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>blog</title>
-      <link>/tags/blog/</link>
-      <pubDate>Tue, 23 Jun 2020 10:15:15 -0400</pubDate>
-      
-      <guid>/tags/blog/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>friends</title>
-      <link>/tags/friends/</link>
-      <pubDate>Tue, 23 Jun 2020 10:15:15 -0400</pubDate>
-      
-      <guid>/tags/friends/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>gimp</title>
-      <link>/tags/gimp/</link>
-      <pubDate>Tue, 23 Jun 2020 10:15:15 -0400</pubDate>
-      
-      <guid>/tags/gimp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hello</title>
-      <link>/tags/hello/</link>
-      <pubDate>Tue, 23 Jun 2020 10:15:15 -0400</pubDate>
-      
-      <guid>/tags/hello/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hugo</title>
-      <link>/tags/hugo/</link>
-      <pubDate>Tue, 23 Jun 2020 10:15:15 -0400</pubDate>
-      
-      <guid>/tags/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>q&#43;a</title>
-      <link>/tags/q&#43;a/</link>
-      <pubDate>Tue, 23 Jun 2020 10:15:15 -0400</pubDate>
-      
-      <guid>/tags/q&#43;a/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

@@ -3,62 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/categories/</loc>
+    <lastmod>2020-06-24T09:50:26-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/introspection/</loc>
+    <lastmod>2020-06-24T09:50:26-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2020-06-24T09:50:26-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/science/</loc>
+    <lastmod>2020-06-24T09:50:26-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-06-24T09:50:26-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2020/06/the-humorist/</loc>
+    <lastmod>2020-06-24T09:50:26-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/why/</loc>
+    <lastmod>2020-06-24T09:50:26-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/categories/blog/</loc>
     <lastmod>2020-06-23T10:15:15-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/blog/</loc>
-    <lastmod>2020-06-23T10:15:15-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <lastmod>2020-06-23T10:15:15-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/friends/</loc>
-    <lastmod>2020-06-23T10:15:15-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/gimp/</loc>
-    <lastmod>2020-06-23T10:15:15-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/2020/06/hello/</loc>
-    <lastmod>2020-06-23T10:15:15-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/hello/</loc>
-    <lastmod>2020-06-23T10:15:15-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/hugo/</loc>
-    <lastmod>2020-06-23T10:15:15-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2020-06-23T10:15:15-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/q&#43;a/</loc>
-    <lastmod>2020-06-23T10:15:15-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2020-06-23T10:15:15-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2020-06-23T10:15:15-04:00</lastmod>
   </url>
   
@@ -69,6 +54,10 @@
   
   <url>
     <loc>/archives/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>
