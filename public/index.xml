@@ -6,10 +6,21 @@
     <description>Recent content on Shreyas Mayya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Jun 2020 09:50:26 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2020 21:09:59 -0400</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Distro Updates</title>
+      <link>/2020/06/distro-updates/</link>
+      <pubDate>Thu, 25 Jun 2020 21:09:59 -0400</pubDate>
+      
+      <guid>/2020/06/distro-updates/</guid>
+      <description>As if it wasn&#39;t already abundantly clear that I have too much time on my hands, I did some distrohopping today.
+What is distrohopping? For the uninitiated, distrohopping is the practice of jumping between Linux distributions (or &amp;quot;distros&amp;quot;) because&amp;hellip; well, because you can, I suppose. (I want to write a longer post about distrohopping, so keep an eye out for that!)
+Well, what did you switch to? Without further ado:</description>
+    </item>
     
     <item>
       <title>The Humorist</title>
