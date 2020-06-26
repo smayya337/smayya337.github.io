@@ -6,10 +6,20 @@
     <description>Recent content on Shreyas Mayya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Jun 2020 21:09:59 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2020 12:31:34 -0400</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Last Week</title>
+      <link>/2020/06/the-last-week/</link>
+      <pubDate>Fri, 26 Jun 2020 12:31:34 -0400</pubDate>
+      
+      <guid>/2020/06/the-last-week/</guid>
+      <description>Today, June 26, marks 15 weeks since my first day in quarantine. For reference, that&#39;s a long time.1 Since I don&#39;t want to review Java graphics concepts (¿Qué es un búfer?), I figured I would look back on the events leading up to the closing of in-person school.2
+March 6, 2020  Virginia Science Olympiad sent out an email saying that they were monitoring the situation.  March 7, 2020  Southern California Science Olympiad decided to cancel their state tournament.</description>
+    </item>
     
     <item>
       <title>Distro Updates</title>
