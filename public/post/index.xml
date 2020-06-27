@@ -6,10 +6,21 @@
     <description>Recent content in Posts on Shreyas Mayya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Jun 2020 12:31:34 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2020 16:42:10 -0400</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Containers</title>
+      <link>/2020/06/containers/</link>
+      <pubDate>Sat, 27 Jun 2020 16:42:10 -0400</pubDate>
+      
+      <guid>/2020/06/containers/</guid>
+      <description>I just finished containerizing this site1, and it had me thinking.
+In the systems administration world, a container is a small virtual environment that can be used to run a program or service. These little things are made using templates called images. There are a few advantages to this model:
+ Containers are pretty easy to create. They&#39;re also easy and clean to delete. They&#39;re more isolated than just running on bare metal, i.</description>
+    </item>
     
     <item>
       <title>The Last Week</title>

@@ -6,10 +6,37 @@
     <description>Recent content in Categories on Shreyas Mayya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Jun 2020 12:31:34 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2020 16:42:10 -0400</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Introspection</title>
+      <link>/categories/introspection/</link>
+      <pubDate>Sat, 27 Jun 2020 16:42:10 -0400</pubDate>
+      
+      <guid>/categories/introspection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>People</title>
+      <link>/categories/people/</link>
+      <pubDate>Sat, 27 Jun 2020 16:42:10 -0400</pubDate>
+      
+      <guid>/categories/people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tech</title>
+      <link>/categories/tech/</link>
+      <pubDate>Sat, 27 Jun 2020 16:42:10 -0400</pubDate>
+      
+      <guid>/categories/tech/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Personal</title>
@@ -26,33 +53,6 @@
       <pubDate>Thu, 25 Jun 2020 21:09:59 -0400</pubDate>
       
       <guid>/categories/distros/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tech</title>
-      <link>/categories/tech/</link>
-      <pubDate>Thu, 25 Jun 2020 21:09:59 -0400</pubDate>
-      
-      <guid>/categories/tech/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Introspection</title>
-      <link>/categories/introspection/</link>
-      <pubDate>Wed, 24 Jun 2020 09:50:26 -0400</pubDate>
-      
-      <guid>/categories/introspection/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Science</title>
-      <link>/categories/science/</link>
-      <pubDate>Wed, 24 Jun 2020 09:50:26 -0400</pubDate>
-      
-      <guid>/categories/science/</guid>
       <description></description>
     </item>
     
