@@ -52,7 +52,7 @@ canonifyurls = true
   identifier = "categories"
   name = "Categories"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-bookmark\"></i>"
-  url = "/categories"
+  url = "/categories/"
 # [[menu.main]]
 #   weight = 3
 #   identifier = "tags"
@@ -64,13 +64,13 @@ canonifyurls = true
   identifier = "archives"
   name = "Archives"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-archive\"></i>"
-  url = "/archives"
+  url = "/archives/"
 [[menu.main]]
   weight = 4
   identifier = "about"
   name = "About"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-question\"></i>"
-  url = "/#about"
+  url = "/#about/"
 
 [[menu.links]]
   weight = 1
@@ -210,7 +210,7 @@ canonifyurls = true
   [params.header.rightLink]
     class = ""
     icon = ""
-    url = "/#about"
+    url = "/#about/"
 
   # Customize link of author avatar in sidebar
   # [params.sidebar.profile]
