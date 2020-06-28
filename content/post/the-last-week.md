@@ -51,6 +51,7 @@ Today, June 26, marks 15 weeks since my first day in quarantine. For reference, 
 ## March 12, 2020
 
 * No one really knew what would happen at this point with school--we were all just waiting for Monday.
+* I took the National Latin exam during second period. In keeping with tradition, I got a 39 out of 40 for the third year in a row.
 * I stopped by the CSL to pick up a networking switch that had been causing some issues. I brought it home that day to fix it.[^6]
 * At the end of the day, the principal announced that school was on for the next day, much to the audible displeasure of the student body.
 * I learned on the bus ride back home that the Pi-Miler, a 5K scheduled for that Saturday, was canceled, but the principal didn\'t want to admit it was because of the coronavirus.
