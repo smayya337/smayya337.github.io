@@ -3,7 +3,7 @@ title: "Containers"
 date: 2020-06-27T16:42:10-04:00
 categories:
 - Tech
-- Introspection
+- Personal
 - People
 keywords:
 - containers

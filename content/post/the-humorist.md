@@ -2,7 +2,7 @@
 title: "The Humorist"
 date: 2020-06-24T09:50:26-04:00
 categories:
-- Introspection
+- Personal
 - Why?
 - People
 keywords:

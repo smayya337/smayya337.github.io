@@ -169,7 +169,7 @@ canonifyurls = true
 
   # Your favicon path, default is "/favicon.png"
   #favicon = "https://gravatar.com/avatar/59631d6bde13fa8876b6e3dc220e0c51"
-  favicon = "images/favicon.png"
+  favicon = "/images/favicon.ico"
 
   # Header configuration
   # The link at the right of the header is customizable
