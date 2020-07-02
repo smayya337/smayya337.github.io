@@ -19,7 +19,7 @@ I don\'t have much to ruminate upon today, so instead here\'s a look at my life 
 
 * I played a bunch of [*Civilization 6*](https://civilization.com) today, and I got my first non-score victory! It was a science victory that I got as the German Empire with eight or so turns left in the game. I also nuked the Aztec capital twice for declaring war on me. That was pretty satisfying.
 
-{{< image classes="center" src="/images/07012020/civ-science-victory.png" title="I\'m a Civ god." >}}
+{{< image classes="center" src="/images/07012020/civ-science-victory.png" title="I'm a Civ god." >}}
 
 * I also started season two of *Avatar: The Last Airbender* today with my sister.
 
