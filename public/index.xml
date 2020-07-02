@@ -6,10 +6,19 @@
     <description>Recent content on Shreyas Mayya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jul 2020 19:33:49 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2020 19:43:45 -0400</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Asteroids</title>
+      <link>/2020/07/asteroids/</link>
+      <pubDate>Thu, 02 Jul 2020 19:43:45 -0400</pubDate>
+      
+      <guid>/2020/07/asteroids/</guid>
+      <description>I would just like to express my extreme frustration and disappointment at the fact that I spent seven hours working on (part of!) a CS project, only to find out upon submitting that a lot of shell code had been uploaded six hours prior with no notice. Thanks for reading&amp;ndash;I&#39;m going to go drown my sorrows in&amp;hellip; something or the other, I guess.</description>
+    </item>
     
     <item>
       <title>Life Right Now - 7/1/2020</title>
