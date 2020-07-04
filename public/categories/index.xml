@@ -6,10 +6,19 @@
     <description>Recent content in Categories on Shreyas Mayya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Jul 2020 19:43:45 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2020 20:36:27 -0400</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>People</title>
+      <link>/categories/people/</link>
+      <pubDate>Fri, 03 Jul 2020 20:36:27 -0400</pubDate>
+      
+      <guid>/categories/people/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Personal</title>
@@ -26,15 +35,6 @@
       <pubDate>Thu, 02 Jul 2020 19:43:45 -0400</pubDate>
       
       <guid>/categories/tech/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>People</title>
-      <link>/categories/people/</link>
-      <pubDate>Sun, 28 Jun 2020 13:35:47 -0400</pubDate>
-      
-      <guid>/categories/people/</guid>
       <description></description>
     </item>
     
