@@ -14,8 +14,8 @@ The thought of sending emails to people I don\'t know instills a strange sense o
 
 [^1]: I\'m not the poster child for pearly whites. In fact, I\'d probably say I\'m the poster child for how *not* to maintain your pearly whites. I had to visit earlier this month and it turns out that I don\'t have any cavities right now. That\'s the first time I\'ve heard that in years!
 
-[^2]: My parents spent thousands--maybe tens of thousands--of dollars putting me in swimming lessons for nine years. I gained two things from them: the ability to swim (albeit very poorly), and PTSD. I\'m scared of swimming pools now.
+[^2]: My parents spent thousands--maybe tens of thousands--of dollars putting me in swimming lessons for nine years. I gained two things from them: the ability to swim (albeit very poorly), and a fear of swimming.
 
-[^3]: I also got PTSD from that class. Never again.
+[^3]: Never again.
 
 I guess my fear is that I will be judged anyway, maybe for writing a shoddy email, or contacting the wrong person, or just for cluttering someone\'s inbox with information regarding a hackathon that they don\'t care about. I know, it\'s pretty irrational, but it bugs me nonetheless. I\'ll have to get the emails written and sent sometime--probably before our team meeting on Friday. But there are still two more days until then (three if you include the day of), and I don\'t think the others have finished either. Besides, Wednesday sounds like a good \"email writing\" day...
