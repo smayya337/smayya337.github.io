@@ -5,6 +5,7 @@ categories:
 - Personal
 - Why?
 - People
+- Humor
 keywords:
 - humor
 - jokes
