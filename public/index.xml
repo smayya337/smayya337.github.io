@@ -6,10 +6,20 @@
     <description>Recent content on Shreyas Mayya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Jul 2020 19:30:14 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2020 19:05:49 -0400</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Distro Updates - 7/5/2020</title>
+      <link>/2020/07/distro-updates-7/5/2020/</link>
+      <pubDate>Sun, 05 Jul 2020 19:05:49 -0400</pubDate>
+      
+      <guid>/2020/07/distro-updates-7/5/2020/</guid>
+      <description>Well, I distrohopped again. Even better, I hopped back to where I was before the last time I hopped.
+ On my laptop, I&#39;m using openSUSE Tumbleweed. The more up-to-date Plasma in the official repos enticed me back. On my secondary PC/server, I&#39;m using openSUSE Leap 15.2 for consistency, and also because I hadn&#39;t tried the recently-released 15.2 version.  </description>
+    </item>
     
     <item>
       <title>May 12, 1784</title>
