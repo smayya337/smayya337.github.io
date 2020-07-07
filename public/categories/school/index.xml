@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Opinion on Shreyas Mayya</title>
-    <link>/categories/opinion/</link>
-    <description>Recent content in Opinion on Shreyas Mayya</description>
+    <title>School on Shreyas Mayya</title>
+    <link>/categories/school/</link>
+    <description>Recent content in School on Shreyas Mayya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 07 Jul 2020 17:52:50 -0400</lastBuildDate>
     
-	<atom:link href="/categories/opinion/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/school/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,15 +20,6 @@
       <description>Wow. Today marks the 15th day that I&#39;ve posted on this blog. I didn&#39;t expect to get this far, honestly.
 I have nothing original to post, so here&#39;s an essay I wrote for virtual English class:
  Frankenstein’s monster is a complex character. Ostensibly the villain of the novel bearing his creator’s name, he turns out to be a pitiful character, shunned many times over by society. The most obvious cause for his rejection by people was his appearance, which was bestowed upon him by Victor Frankenstein.</description>
-    </item>
-    
-    <item>
-      <title>May 12, 1784</title>
-      <link>/2020/07/may-12-1784/</link>
-      <pubDate>Sat, 04 Jul 2020 19:30:14 -0400</pubDate>
-      
-      <guid>/2020/07/may-12-1784/</guid>
-      <description>To my fellow Americans: happy Independence Day! As we all know, July 4th, 1776 marked the birth of the United States with the signing of the Declaration of Independence. But here&#39;s my hot take for the day&amp;ndash;we&#39;re celebrating the wrong date. (And no, John Adams nerds, I don&#39;t mean we should be celebrating July 2nd instead.) In my view, the real date of America&#39;s founding is a few years later, on May 12, 1784.</description>
     </item>
     
   </channel>
