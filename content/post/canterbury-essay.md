@@ -1,5 +1,5 @@
 ---
-title: "*Canterbury Tales* Essay"
+title: "Canterbury Tales Essay"
 date: 2020-07-08T18:43:13-04:00
 categories:
 - Personal
