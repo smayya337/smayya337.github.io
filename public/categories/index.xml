@@ -6,17 +6,35 @@
     <description>Recent content in Categories on Shreyas Mayya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Jul 2020 22:11:29 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2020 15:44:35 -0400</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>People</title>
+      <link>/categories/people/</link>
+      <pubDate>Fri, 10 Jul 2020 15:44:35 -0400</pubDate>
+      
+      <guid>/categories/people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Personal</title>
       <link>/categories/personal/</link>
-      <pubDate>Thu, 09 Jul 2020 22:11:29 -0400</pubDate>
+      <pubDate>Fri, 10 Jul 2020 15:44:35 -0400</pubDate>
       
       <guid>/categories/personal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Why?</title>
+      <link>/categories/why/</link>
+      <pubDate>Fri, 10 Jul 2020 15:44:35 -0400</pubDate>
+      
+      <guid>/categories/why/</guid>
       <description></description>
     </item>
     
@@ -71,24 +89,6 @@
       <pubDate>Sat, 04 Jul 2020 19:30:14 -0400</pubDate>
       
       <guid>/categories/humor/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>People</title>
-      <link>/categories/people/</link>
-      <pubDate>Fri, 03 Jul 2020 20:36:27 -0400</pubDate>
-      
-      <guid>/categories/people/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Why?</title>
-      <link>/categories/why/</link>
-      <pubDate>Fri, 03 Jul 2020 20:36:27 -0400</pubDate>
-      
-      <guid>/categories/why/</guid>
       <description></description>
     </item>
     
