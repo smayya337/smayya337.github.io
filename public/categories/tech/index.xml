@@ -6,10 +6,19 @@
     <description>Recent content in Tech on Shreyas Mayya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Jul 2020 19:05:49 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2020 20:10:08 -0400</lastBuildDate>
     
 	<atom:link href="/categories/tech/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Weekly Updates</title>
+      <link>/2020/07/weekly-updates/</link>
+      <pubDate>Sat, 11 Jul 2020 20:10:08 -0400</pubDate>
+      
+      <guid>/2020/07/weekly-updates/</guid>
+      <description>Today, by my count, is the 19th consecutive day that I have posted on this blog, and I&#39;ve realized that it is a bit untenable for me to continue to post on a daily basis. To that end, I&#39;ll be shifting to weekly updates so that I don&#39;t feel as rushed and can put out higher-quality content. Thanks and I hope you have a great weekend!</description>
+    </item>
     
     <item>
       <title>Distro Updates - 7/5/2020</title>
