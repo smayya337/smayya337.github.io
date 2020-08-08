@@ -6,10 +6,20 @@
     <description>Recent content on Shreyas Mayya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Aug 2020 20:38:22 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2020 19:06:15 -0400</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Distro Updates - 8/8/2020</title>
+      <link>/2020/08/distro-updates-8/8/2020/</link>
+      <pubDate>Sat, 08 Aug 2020 19:06:15 -0400</pubDate>
+      
+      <guid>/2020/08/distro-updates-8/8/2020/</guid>
+      <description>My writer&#39;s block is getting really bad&amp;hellip;
+I distrohopped last week because I was getting a bit dissatisfied with all the installers I had to use for openSUSE. If only there was some way I could easily install stuff like Anaconda and PyCharm without having to mess with user-only installs and such&amp;hellip; oh yeah, it&#39;s called the Arch User Repository. Consequently, I&#39;m using the same setup on both my systems right now&amp;ndash;Arch Linux with the GNOME desktop.</description>
+    </item>
     
     <item>
       <title>Life Right Now - 8/1/2020</title>
