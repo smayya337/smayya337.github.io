@@ -6,48 +6,10 @@
     <description>Recent content in Tech on Shreyas Mayya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Aug 2020 19:06:15 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2020 16:42:10 -0400</lastBuildDate>
     
 	<atom:link href="/categories/tech/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Distro Updates - 8/8/2020</title>
-      <link>/2020/08/distro-updates-8/8/2020/</link>
-      <pubDate>Sat, 08 Aug 2020 19:06:15 -0400</pubDate>
-      
-      <guid>/2020/08/distro-updates-8/8/2020/</guid>
-      <description>My writer&#39;s block is getting really bad&amp;hellip;
-I distrohopped last week because I was getting a bit dissatisfied with all the installers I had to use for openSUSE. If only there was some way I could easily install stuff like Anaconda and PyCharm without having to mess with user-only installs and such&amp;hellip; oh yeah, it&#39;s called the Arch User Repository. Consequently, I&#39;m using the same setup on both my systems right now&amp;ndash;Arch Linux with the GNOME desktop.</description>
-    </item>
-    
-    <item>
-      <title>Weekly Updates</title>
-      <link>/2020/07/weekly-updates/</link>
-      <pubDate>Sat, 11 Jul 2020 20:10:08 -0400</pubDate>
-      
-      <guid>/2020/07/weekly-updates/</guid>
-      <description>Today, by my count, is the 19th consecutive day that I have posted on this blog, and I&#39;ve realized that it is a bit untenable for me to continue to post on a daily basis. To that end, I&#39;ll be shifting to weekly updates so that I don&#39;t feel as rushed and can put out higher-quality content. Thanks and I hope you have a great weekend!</description>
-    </item>
-    
-    <item>
-      <title>Distro Updates - 7/5/2020</title>
-      <link>/2020/07/distro-updates-7/5/2020/</link>
-      <pubDate>Sun, 05 Jul 2020 19:05:49 -0400</pubDate>
-      
-      <guid>/2020/07/distro-updates-7/5/2020/</guid>
-      <description>Well, I distrohopped again. Even better, I hopped back to where I was before the last time I hopped.
- On my laptop, I&#39;m using openSUSE Tumbleweed. The more up-to-date Plasma in the official repos enticed me back. On my secondary PC/server, I&#39;m using openSUSE Leap 15.2 for consistency, and also because I hadn&#39;t tried the recently-released 15.2 version.  </description>
-    </item>
-    
-    <item>
-      <title>Asteroids</title>
-      <link>/2020/07/asteroids/</link>
-      <pubDate>Thu, 02 Jul 2020 19:43:45 -0400</pubDate>
-      
-      <guid>/2020/07/asteroids/</guid>
-      <description>I would just like to express my extreme frustration and disappointment at the fact that I spent seven hours working on (part of!) a CS project, only to find out upon submitting that a lot of shell code had been uploaded six hours prior with no notice. Thanks for reading&amp;ndash;I&#39;m going to go drown my sorrows in&amp;hellip; something or the other, I guess.</description>
-    </item>
     
     <item>
       <title>Containers</title>
@@ -58,17 +20,6 @@ I distrohopped last week because I was getting a bit dissatisfied with all the i
       <description>I just finished containerizing this site1, and it had me thinking.
 In the systems administration world, a container is a small virtual environment that can be used to run a program or service. These little things are made using templates called images. There are a few advantages to this model:
  Containers are pretty easy to create. They&#39;re also easy and clean to delete. They&#39;re more isolated than just running on bare metal, i.</description>
-    </item>
-    
-    <item>
-      <title>Distro Updates</title>
-      <link>/2020/06/distro-updates/</link>
-      <pubDate>Thu, 25 Jun 2020 21:09:59 -0400</pubDate>
-      
-      <guid>/2020/06/distro-updates/</guid>
-      <description>As if it wasn&#39;t already abundantly clear that I have too much time on my hands, I did some distrohopping today.
-What is distrohopping? For the uninitiated, distrohopping is the practice of jumping between Linux distributions (or &amp;quot;distros&amp;quot;) because&amp;hellip; well, because you can, I suppose. (I want to write a longer post about distrohopping, so keep an eye out for that!)
-Well, what did you switch to? Without further ado:</description>
     </item>
     
     <item>

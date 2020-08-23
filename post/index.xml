@@ -6,7 +6,7 @@
     <description>Recent content in Posts on Shreyas Mayya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Aug 2020 19:25:27 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2020 15:16:14 -0400</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,40 +14,11 @@
     <item>
       <title>What Do the Dreams Mean?</title>
       <link>/2020/08/what-do-the-dreams-mean/</link>
-      <pubDate>Sat, 22 Aug 2020 19:25:27 -0400</pubDate>
+      <pubDate>Sun, 23 Aug 2020 15:16:14 -0400</pubDate>
       
       <guid>/2020/08/what-do-the-dreams-mean/</guid>
-      <description>MORE TO COME (but here&amp;rsquo;s your teaser!)</description>
-    </item>
-    
-    <item>
-      <title>Propinquity or: How I Learned to Love My Classmates</title>
-      <link>/2020/08/propinquity-or-how-i-learned-to-love-my-classmates/</link>
-      <pubDate>Sat, 15 Aug 2020 18:34:43 -0400</pubDate>
-      
-      <guid>/2020/08/propinquity-or-how-i-learned-to-love-my-classmates/</guid>
-      <description>First off, if you got the reference in the title good on you. Second off, here&#39;s something that seems insanely common-sense: you get closer to people you spend more time around.
-You might be like, &amp;quot;Uh, yeah, Shreyas. That&#39;s kind of a given.&amp;quot; But why? Why is it that more time around a person helps you form closer relationships with them? This concept is called propinquity (from Latin propinquitās, meaning nearness) and it plays a huge role in interpersonal attraction.</description>
-    </item>
-    
-    <item>
-      <title>Distro Updates - 8/8/2020</title>
-      <link>/2020/08/distro-updates-8/8/2020/</link>
-      <pubDate>Sat, 08 Aug 2020 19:06:15 -0400</pubDate>
-      
-      <guid>/2020/08/distro-updates-8/8/2020/</guid>
-      <description>My writer&#39;s block is getting really bad&amp;hellip;
-I distrohopped last week because I was getting a bit dissatisfied with all the installers I had to use for openSUSE. If only there was some way I could easily install stuff like Anaconda and PyCharm without having to mess with user-only installs and such&amp;hellip; oh yeah, it&#39;s called the Arch User Repository. Consequently, I&#39;m using the same setup on both my systems right now&amp;ndash;Arch Linux with the GNOME desktop.</description>
-    </item>
-    
-    <item>
-      <title>Life Right Now - 8/1/2020</title>
-      <link>/2020/08/life-right-now-8/1/2020/</link>
-      <pubDate>Sat, 01 Aug 2020 20:38:22 -0400</pubDate>
-      
-      <guid>/2020/08/life-right-now-8/1/2020/</guid>
-      <description>That&#39;s right&amp;ndash;I&#39;m out of time and ideas again, so I&#39;m doing another one of these. Recent events and thoughts in no particular order:
- Summer CS is over. It wasn&#39;t that bad, but it still feels kind of nice that I don&#39;t have to worry about a class. I just came back from my first drive in three weeks because my dad didn&#39;t trust me to still remember how to operate a car after that long.</description>
+      <description>I opened my eyes to darkness. It was some ungodly hour on Saturday morning, and I was struggling to make sense of a scene I just saw. I remembered the details really well,1 but how did everything happen if I had just been sleeping? It took a couple seconds before the realization hit me that I had been dreaming.2
+Later that day, I recounted this occurrence to a friend, and he wondered if there was something more to the whole thing.</description>
     </item>
     
     <item>
@@ -60,88 +31,6 @@ I distrohopped last week because I was getting a bit dissatisfied with all the i
 Meet James. James is a rising senior at TJ. James likes to run and has been a part of TJ&#39;s cross-country and track teams. He&#39;s also passionate about photography and videography.
 Oh, sorry. Did I write &amp;quot;is&amp;quot;? Because I meant to write &amp;quot;was&amp;quot;. Sadly, today marks one week since James committed suicide.
 James wasn&#39;t the first TJ student to unexpectedly pass away&amp;ndash;he wasn&#39;t even the first in his own graduating class&amp;ndash;but his death is the latest item added to a laundry list of mental health concerns at the school.</description>
-    </item>
-    
-    <item>
-      <title>Life Right Now - 7/18/2020</title>
-      <link>/2020/07/life-right-now-7/18/2020/</link>
-      <pubDate>Sat, 18 Jul 2020 19:40:29 -0400</pubDate>
-      
-      <guid>/2020/07/life-right-now-7/18/2020/</guid>
-      <description>As promised, here&#39;s my first weekly update. Even though I claimed in my justification for the weekly model that it would allow me to come up with better content, it turns out that, well, it did not. I just got lazier.1 Instead of some interesting post about a deep topic, here&#39;s what&#39;s happened in the last week:
- Summer CS has been mostly fine. There are two weeks left and we&#39;re just about to start the fifth unit.</description>
-    </item>
-    
-    <item>
-      <title>Weekly Updates</title>
-      <link>/2020/07/weekly-updates/</link>
-      <pubDate>Sat, 11 Jul 2020 20:10:08 -0400</pubDate>
-      
-      <guid>/2020/07/weekly-updates/</guid>
-      <description>Today, by my count, is the 19th consecutive day that I have posted on this blog, and I&#39;ve realized that it is a bit untenable for me to continue to post on a daily basis. To that end, I&#39;ll be shifting to weekly updates so that I don&#39;t feel as rushed and can put out higher-quality content. Thanks and I hope you have a great weekend!</description>
-    </item>
-    
-    <item>
-      <title>Ghosts</title>
-      <link>/2020/07/ghosts/</link>
-      <pubDate>Fri, 10 Jul 2020 15:44:35 -0400</pubDate>
-      
-      <guid>/2020/07/ghosts/</guid>
-      <description>As soon as you saw the title of this post, you probably thought this would be about one of two things:
- Actual ghosts, like Casper Ghosting  The second is correct. Congratulations!
-I&#39;ve noticed a fair bit of &amp;quot;leaving on delivered&amp;quot; going on lately, and I&#39;ve been both the recipient and the perpetrator. (In the latter scenario, it was because I would keep getting involved with something and forgetting to check my messages, though my laziness did also start to protest my attempts to help others with their CS work.</description>
-    </item>
-    
-    <item>
-      <title>Life Right Now - 7/9/2020</title>
-      <link>/2020/07/life-right-now-7/9/2020/</link>
-      <pubDate>Thu, 09 Jul 2020 22:11:29 -0400</pubDate>
-      
-      <guid>/2020/07/life-right-now-7/9/2020/</guid>
-      <description>Here&#39;s how life is right now:
- The CSL went down for a few days due to lack of an A/C. (The machine room gets hot when there&#39;s nothing to regulate the temperature.) Thankfully, everything is coming back up, and I don&#39;t think there was any major damage to anything. We&#39;re beginning work on the TJSO diagnostic! There is much to do on that front (and my physics knowledge has been tested multiple times already.</description>
-    </item>
-    
-    <item>
-      <title>Canterbury Tales Essay</title>
-      <link>/2020/07/canterbury-tales-essay/</link>
-      <pubDate>Wed, 08 Jul 2020 18:43:13 -0400</pubDate>
-      
-      <guid>/2020/07/canterbury-tales-essay/</guid>
-      <description>That&#39;s right. I&#39;m being lazy again. At this rate, I&#39;ll give up posting by the end of the week, won&#39;t I?
-Treat yourself to another essay I wrote for English. Technically, it was a rewrite of a prior one, but this was so much better than the original my English teacher became suspicious that I had stolen it. (For the record, this essay is completely original.)
- In the Canterbury Tales, Geoffrey Chaucer uses the medium of short stories to examine various elements of society in 14th-century England.</description>
-    </item>
-    
-    <item>
-      <title>Frankenstein&#39;s Monster Essay</title>
-      <link>/2020/07/frankensteins-monster-essay/</link>
-      <pubDate>Tue, 07 Jul 2020 17:52:50 -0400</pubDate>
-      
-      <guid>/2020/07/frankensteins-monster-essay/</guid>
-      <description>Wow. Today marks the 15th day that I&#39;ve posted on this blog. I didn&#39;t expect to get this far, honestly.
-I have nothing original to post, so here&#39;s an essay I wrote for virtual English class:
- Frankenstein’s monster is a complex character. Ostensibly the villain of the novel bearing his creator’s name, he turns out to be a pitiful character, shunned many times over by society. The most obvious cause for his rejection by people was his appearance, which was bestowed upon him by Victor Frankenstein.</description>
-    </item>
-    
-    <item>
-      <title>&#34;You&#39;re From Where?&#34;</title>
-      <link>/2020/07/youre-from-where/</link>
-      <pubDate>Mon, 06 Jul 2020 09:17:20 -0400</pubDate>
-      
-      <guid>/2020/07/youre-from-where/</guid>
-      <description>People have lately been sharing their experiences as members of under-represented groups at TJ, so I thought I&#39;d touch on my own experience. It&#39;s not a race thing or a gender thing or even an income thing (I&#39;m an Indian boy from a fairly well-off family, which is about as TJ as it gets), but more of a location thing.
-(Also, my writing is probably going to turn out horrible. You&#39;ve been warned.</description>
-    </item>
-    
-    <item>
-      <title>Distro Updates - 7/5/2020</title>
-      <link>/2020/07/distro-updates-7/5/2020/</link>
-      <pubDate>Sun, 05 Jul 2020 19:05:49 -0400</pubDate>
-      
-      <guid>/2020/07/distro-updates-7/5/2020/</guid>
-      <description>Well, I distrohopped again. Even better, I hopped back to where I was before the last time I hopped.
- On my laptop, I&#39;m using openSUSE Tumbleweed. The more up-to-date Plasma in the official repos enticed me back. On my secondary PC/server, I&#39;m using openSUSE Leap 15.2 for consistency, and also because I hadn&#39;t tried the recently-released 15.2 version.  </description>
     </item>
     
     <item>
@@ -163,51 +52,12 @@ I have nothing original to post, so here&#39;s an essay I wrote for virtual Engl
     </item>
     
     <item>
-      <title>Asteroids</title>
-      <link>/2020/07/asteroids/</link>
-      <pubDate>Thu, 02 Jul 2020 19:43:45 -0400</pubDate>
-      
-      <guid>/2020/07/asteroids/</guid>
-      <description>I would just like to express my extreme frustration and disappointment at the fact that I spent seven hours working on (part of!) a CS project, only to find out upon submitting that a lot of shell code had been uploaded six hours prior with no notice. Thanks for reading&amp;ndash;I&#39;m going to go drown my sorrows in&amp;hellip; something or the other, I guess.</description>
-    </item>
-    
-    <item>
-      <title>Life Right Now - 7/1/2020</title>
-      <link>/2020/07/life-right-now-7/1/2020/</link>
-      <pubDate>Wed, 01 Jul 2020 19:33:49 -0400</pubDate>
-      
-      <guid>/2020/07/life-right-now-7/1/2020/</guid>
-      <description>I don&#39;t have much to ruminate upon today, so instead here&#39;s a look at my life right now:
-  Summer CS has been going relatively well&amp;ndash;since I&#39;ve done most of the labs beforehand, I just make sure that they work and put all the classes into one file before going and doing something else.
-  I finished writing up part one of this year&#39;s edition of my annual TJMC show piano arrangement last night.</description>
-    </item>
-    
-    <item>
-      <title>Emails</title>
-      <link>/2020/06/emails/</link>
-      <pubDate>Tue, 30 Jun 2020 13:12:55 -0400</pubDate>
-      
-      <guid>/2020/06/emails/</guid>
-      <description>I have to send out a bunch of emails. The recipients: potential sponsors for HackTJ 7.5, a virtual version of the school&#39;s annual hackathon that&#39;s set to take place in November. I know whom I&#39;m supposed to contact, and more or less what to talk about in my messages. I even double-checked everything the other day to make sure I wasn&#39;t mistaken. So why don&#39;t I want to do it?</description>
-    </item>
-    
-    <item>
       <title>Mother Tongue</title>
       <link>/2020/06/mother-tongue/</link>
       <pubDate>Mon, 29 Jun 2020 12:14:39 -0400</pubDate>
       
       <guid>/2020/06/mother-tongue/</guid>
       <description>At TJ, a large portion of the student body comes from households where English isn&#39;t the only language spoken. Their families might converse in Tamil or Telugu, Chinese or Korean1&amp;ndash;and as a result, most of the kids from those backgrounds are fluent in their families&#39; native tongues. It&#39;s impressive&amp;hellip; and a bit disheartening, honestly. You see, I&#39;m from one of those households, but I&#39;ve always struggled to speak the language of my family, and it&#39;s caused me some problems.</description>
-    </item>
-    
-    <item>
-      <title>Lukewarm</title>
-      <link>/2020/06/lukewarm/</link>
-      <pubDate>Sun, 28 Jun 2020 13:35:47 -0400</pubDate>
-      
-      <guid>/2020/06/lukewarm/</guid>
-      <description>Nothing hurts quite like a lukewarm response.
-You&#39;ve probably seen or felt it before: telling someone about a subject you really enjoy only to have them respond with a dismissive &amp;quot;Yeah, that&#39;s cool&amp;quot;, or a stand-up comedian delivering their best joke to a crowd and receiving almost no laughs in return. It&#39;s pretty awful. Boredom (or at least the perception of it) is anathema to the entertainer&amp;ndash;a sign that the audience doesn&#39;t care about what they have to say, that they failed at the most important element of what they&#39;re supposed to be doing.</description>
     </item>
     
     <item>
@@ -229,17 +79,6 @@ In the systems administration world, a container is a small virtual environment 
       <guid>/2020/06/the-last-week/</guid>
       <description>Today, June 26, marks 15 weeks since my first day in quarantine. For reference, that&#39;s a long time.1 Since I don&#39;t want to review Java graphics concepts (¿Qué es un búfer?), I figured I would look back on the events leading up to the closing of in-person school.2
 March 6, 2020  Virginia Science Olympiad sent out an email saying that they were monitoring the situation.  March 7, 2020  Southern California Science Olympiad decided to cancel their state tournament.</description>
-    </item>
-    
-    <item>
-      <title>Distro Updates</title>
-      <link>/2020/06/distro-updates/</link>
-      <pubDate>Thu, 25 Jun 2020 21:09:59 -0400</pubDate>
-      
-      <guid>/2020/06/distro-updates/</guid>
-      <description>As if it wasn&#39;t already abundantly clear that I have too much time on my hands, I did some distrohopping today.
-What is distrohopping? For the uninitiated, distrohopping is the practice of jumping between Linux distributions (or &amp;quot;distros&amp;quot;) because&amp;hellip; well, because you can, I suppose. (I want to write a longer post about distrohopping, so keep an eye out for that!)
-Well, what did you switch to? Without further ado:</description>
     </item>
     
     <item>
