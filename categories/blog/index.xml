@@ -6,11 +6,7 @@
     <description>Recent content in Blog on Shreyas Mayya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Jun 2020 10:15:15 -0400</lastBuildDate>
-    
-	<atom:link href="/categories/blog/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 23 Jun 2020 10:15:15 -0400</lastBuildDate><atom:link href="/categories/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello</title>
       <link>/2020/06/hello/</link>
