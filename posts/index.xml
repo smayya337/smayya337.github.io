@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Shreyas Mayya</title>
-    <link>https://www.smayya.me/</link>
-    <description>Recent content on Shreyas Mayya</description>
+    <title>Posts on Shreyas Mayya</title>
+    <link>https://www.smayya.me/posts/</link>
+    <description>Recent content in Posts on Shreyas Mayya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Jun 2021 10:24:28 -0400</lastBuildDate><atom:link href="https://www.smayya.me/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Jun 2021 10:24:28 -0400</lastBuildDate><atom:link href="https://www.smayya.me/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Shreyas Strolls</title>
       <link>https://www.smayya.me/2021/06/shreyas-strolls/</link>
@@ -23,16 +23,6 @@
       
       <guid>https://www.smayya.me/2020/06/the-humorist/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve been noticing something over the last few weeks &amp;ndash; I like to crack jokes. A lot.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>About Me</title>
-      <link>https://www.smayya.me/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.smayya.me/about/</guid>
-      <description>Hi! I&amp;rsquo;m Shreyas. Some things you should probably know about me:
- I&amp;rsquo;m a senior at Thomas Jefferson High School for Science and Technology. I&amp;rsquo;m a co-captain of TJHSST Science Olympiad. Science Olympiad is a national science competition. I&amp;rsquo;ve participated in Science Olympiad since eighth grade and gone to nationals with TJ twice. I&amp;rsquo;m also a founder and lead maintainer of Duosmium Results, a popular Science Olympiad results archive and publisher.</description>
     </item>
     
   </channel>
