@@ -3,76 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.smayya.me/categories/</loc>
-    <lastmod>2021-06-15T10:24:28-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.smayya.me/tags/life/</loc>
-    <lastmod>2021-06-15T10:24:28-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.smayya.me/tags/outside/</loc>
-    <lastmod>2021-06-15T10:24:28-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.smayya.me/categories/personal/</loc>
-    <lastmod>2021-06-15T10:24:28-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.smayya.me/posts/</loc>
-    <lastmod>2021-06-15T10:24:28-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.smayya.me/</loc>
-    <lastmod>2021-06-15T10:24:28-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.smayya.me/2021/06/shreyas-strolls/</loc>
-    <lastmod>2021-06-15T10:24:28-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.smayya.me/tags/summer/</loc>
-    <lastmod>2021-06-15T10:24:28-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.smayya.me/tags/</loc>
-    <lastmod>2021-06-15T10:24:28-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.smayya.me/categories/humor/</loc>
-    <lastmod>2020-06-24T09:50:26-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.smayya.me/tags/humor/</loc>
-    <lastmod>2020-06-24T09:50:26-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.smayya.me/2020/06/the-humorist/</loc>
-    <lastmod>2020-06-24T09:50:26-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.smayya.me/tags/thoughts/</loc>
-    <lastmod>2020-06-24T09:50:26-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.smayya.me/about/</loc>
   </url>
   
   <url>
     <loc>https://www.smayya.me/archives/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.smayya.me/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.smayya.me/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.smayya.me/tags/</loc>
   </url>
   
 </urlset>
