@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
 html {
-  font-family: Roboto, -apple-system, BlinkMacSystemFont, 'Segoe UI', Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-family: Roboto, ui-sans-serif, sans-serif;
 }
 body {
-  font-family: Roboto, -apple-system, BlinkMacSystemFont, 'Segoe UI', Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-family: inherit;
 }
 h1,
 h2,
@@ -11,7 +11,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: Roboto, -apple-system, BlinkMacSystemFont, 'Segoe UI', Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-family: inherit;
 }
 pre > code {
   font-family: 'Roboto Mono', ui-monospace, monospace;
@@ -20,7 +20,7 @@ code {
   font-family: 'Roboto Mono', ui-monospace, monospace;
 }
 #sidebar {
-  font-family: Roboto, -apple-system, BlinkMacSystemFont, 'Segoe UI', Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-family: inherit;
 }
 .caption {
   font-family: 'Roboto Slab', ui-serif, serif;
@@ -40,21 +40,21 @@ figure.highlight pre {
   font-family: 'Roboto Mono', ui-monospace, monospace;
 }
 .image-gallery .image-gallery-metabar {
-  font-family: Roboto, -apple-system, BlinkMacSystemFont, 'Segoe UI', Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-family: inherit;
 }
 .post .post-meta {
-  font-family: Roboto, -apple-system, BlinkMacSystemFont, 'Segoe UI', Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-family: inherit;
 }
 .post .post-content {
   font-family: 'Roboto Slab', ui-serif, serif;
 }
 .post-header-cover .post-header .post-meta {
-  font-family: Roboto, -apple-system, BlinkMacSystemFont, 'Segoe UI', Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-family: inherit;
 }
 .postShorten .postShorten-excerpt_link,
 .postShorten .postShorten-meta,
 .postShorten .postShorten-readingtime {
-  font-family: Roboto, -apple-system, BlinkMacSystemFont, 'Segoe UI', Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-family: inherit;
 }
 .postShorten .postShorten-content,
 .postShorten .postShorten-excerpt {
@@ -65,5 +65,5 @@ figure.highlight pre {
 }
 
 input {
-  font-family: Roboto, -apple-system, BlinkMacSystemFont, 'Segoe UI', Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; 
+  font-family: inherit; 
 }
