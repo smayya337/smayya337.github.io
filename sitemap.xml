@@ -1,63 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://www.smayya.me/categories/</loc>
-    <lastmod>2022-04-18T17:35:13-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.smayya.me/tags/code/</loc>
-    <lastmod>2022-04-18T17:35:13-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.smayya.me/2022/04/implementing-a-unix-shell/</loc>
-    <lastmod>2022-04-18T17:35:13-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.smayya.me/tags/linux/</loc>
-    <lastmod>2022-04-18T17:35:13-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.smayya.me/posts/</loc>
-    <lastmod>2022-04-18T17:35:13-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.smayya.me/tags/projects/</loc>
-    <lastmod>2022-04-18T17:35:13-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.smayya.me/categories/school/</loc>
-    <lastmod>2022-04-18T17:35:13-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.smayya.me/</loc>
-    <lastmod>2022-04-18T17:35:13-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.smayya.me/tags/</loc>
-    <lastmod>2022-04-18T17:35:13-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.smayya.me/categories/tech/</loc>
-    <lastmod>2022-04-18T17:35:13-04:00</lastmod>
-  </url>
-  
   <url>
     <loc>https://www.smayya.me/about/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.smayya.me/archives/</loc>
+  </url><url>
+    <loc>https://www.smayya.me/categories/</loc>
+  </url><url>
+    <loc>https://www.smayya.me/</loc>
+  </url><url>
+    <loc>https://www.smayya.me/tags/</loc>
   </url>
-  
 </urlset>
