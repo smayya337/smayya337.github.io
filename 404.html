@@ -57,6 +57,7 @@
         --secondary-background-color: #64ffda1a;
         --primary-color: #007bff;
         --secondary-color: #f8f9fa;
+        --shadow-color: rgba(0, 0, 0, 0.25);
 
          
         --text-color-dark: #e4e6eb;
@@ -65,6 +66,7 @@
         --secondary-background-color-dark: #212529;
         --primary-color-dark: #ffffff;
         --secondary-color-dark: #212529;
+        --shadow-color-dark: rgba(0, 0, 0, 0.5);
     }
     body {
         font-size: 1rem;
@@ -115,8 +117,9 @@ Shreyas Mayya | 404 page not found
 <script>
     if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
         document.body.classList.add('dark');
+    } else {
+        document.body.classList.remove('dark');
     }
-
 </script>
 
 
@@ -247,8 +250,9 @@ Shreyas Mayya | 404 page not found
         document.body.classList.remove('dark')
     } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
         document.body.classList.add('dark');
+    } else {
+        document.body.classList.remove('dark');
     }
-
 </script>
 
 <script>
