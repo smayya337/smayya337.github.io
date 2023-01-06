@@ -44,6 +44,12 @@
 #projects .card .card-footer {
     border-bottom-left-radius: 1rem;
     border-bottom-right-radius: 1rem;
+    justify-content: space-between;
+}
+
+#projects .card .card-footer .link-icons {
+    margin-left: -0.5rem;
+    margin-right: -0.5rem;
 }
 
 #projects .card:hover .card-img-top {
