@@ -99,7 +99,6 @@ header .navbar.animate {
 
 #hero h3 {
     font-size: clamp(40px, 8vw, 60px);
-    /* color: var(--primary-color) !important; */
     opacity: 0.5;
     font-weight: 600;
 }
@@ -112,9 +111,7 @@ header .navbar.animate {
 }
 
 #hero .image img {
-    /* box-shadow: 0px 8px 56px rgba(15, 80, 100, 0.16); */
     padding: 0;
-    /* border: 3px solid var(--secondary-color); */
     border: 2px solid var(--text-secondary-color) !important;
     border-radius: 1rem;
 }
@@ -125,15 +122,8 @@ header .navbar.animate {
 }
 
 #hero .image img:hover {
-    /* cursor: pointer; */
     border: 2px solid var(--primary-color) !important;
 }
-/* 
-#hero .image.animate img:hover {
-    box-shadow: 0 0 11px rgb(15 80 100 / 20%);
-    filter: contrast(1.2);
-    cursor: pointer;
-} */
 
 #hero a.btn.social-icon {
     color: var(--primary-color) !important;
@@ -161,10 +151,6 @@ header .navbar.animate {
     border-radius: 0.75rem;
     transition: none;
 }
-
-/* #hero a.btn:focus {
-    box-shadow: none;
-} */
 
 #hero a.btn:hover {
     background-color: var(--secondary-color) !important;
@@ -206,7 +192,6 @@ header .navbar.animate {
 }
 
 #about .image img {
-    /* box-shadow: 0px 8px 56px rgba(15, 80, 100, 0.16); */
     transition: box-shadow 0.3s;
     padding: 0;
     border: 0;
@@ -214,7 +199,6 @@ header .navbar.animate {
 }
 
 #about .image img:hover {
-    /* box-shadow: 0 0 11px rgb(15 80 100 / 20%); */
     border: 2px solid var(--primary-color) !important;
 }
 
@@ -235,14 +219,13 @@ header .navbar.animate {
 }
 
 #about ul li::before {
-    content: "▹";
+    content: "•";
     color: var(--primary-color);
     position: absolute;
     left: 0px;
 }
 
 #about .content {
-    /* font-weight: 500; */
     opacity: 0.9 !important;
     line-height: 1.7rem !important;
 }
@@ -298,10 +281,27 @@ header .navbar.animate {
     margin: 0;
 }
 
+#experience .nav {
+    flex-wrap: nowrap;
+    overflow: scroll;
+}
+
+#experience .nav-item {
+    flex-shrink: 0;
+}
+
+#experience .nav-item:not(:last-child) {
+    padding-right: 2rem;
+}
+
+#experience .nav-link {
+    padding-left: 0;
+    padding-right: 0;
+}
+
 #experience .experience-container {
     background-color: var(--secondary-color) !important;
     border-radius: 1.5rem;
-    /* box-shadow: 0px 8px 56px rgb(15 80 100 / 16%); */
     border: 2px solid var(--text-secondary-color) !important;
     padding: 2rem;
 }
@@ -365,12 +365,12 @@ header .navbar.animate {
 
 #experience .experience-container .tab-content .tab-pane ul li {
     position: relative;
-    margin-bottom: 10px;
+    /* margin-bottom: 10px; */
     padding-left: 20px;
 }
 
 #experience .experience-container .tab-content .tab-pane ul li::before {
-    content: "▹";
+    content: "•";
     color: var(--primary-color);
     position: absolute;
     left: 0px;
@@ -440,7 +440,6 @@ header .navbar.animate {
 
 #education .card {
     border-radius: 1.5rem;
-    /* box-shadow: 0px 8px 56px rgb(15 80 100 / 16%); */
     border: 2px solid var(--text-secondary-color) !important;
     transition: box-shadow 0.2s linear, opacity 0.2s linear;
     transition: transform 0.2s;
@@ -459,7 +458,6 @@ header .navbar.animate {
 
 #education .card:hover {
     transition: 0.3s;
-    /* box-shadow: 0 4px 11px rgb(15 80 100 / 16%); */
     border: 2px solid var(--primary-color) !important;
 }
 
@@ -519,17 +517,11 @@ header .navbar.animate {
     cursor: context-menu;
     background-color: var(--secondary-color) !important;
     border-radius: 1rem;
-    /* box-shadow: 0 0 36px rgba(0, 0, 0, 0.1); */
-    /* transform: translate3d(0, 0, 0); */
     transition: box-shadow 0.2s linear, opacity 0.2s linear;
-    /* border: 2px solid transparent; */
     border: 2px solid var(--text-secondary-color) !important;
 }
 
 #achievements .card:hover {
-    /* box-shadow: 0 0 11px rgb(15 80 100 / 20%); */
-    /* transition: transform 0.3s;
-    transform: translateY(-7px); */
     border: 2px solid var(--primary-color) !important;
 }
 
@@ -541,11 +533,6 @@ header .navbar.animate {
     color: var(--text-color) !important;
     opacity: 0.9;
 }
-
-/* #achievements .card:hover {
-    border: 2px solid var(--text-color);
-    transition: 0.3s;
-} */
 
 #achievements .card:focus {
     border: 2px solid var(--text-color);
@@ -565,7 +552,6 @@ header .navbar.animate {
 
 #contact .btn {
     transition: none;
-    /* transition: opacity 0.3s; */
     border-radius: 0.5rem !important;
     border-color: var(--primary-color) !important;
     background-color: var(--secondary-color) !important;
@@ -575,7 +561,3 @@ header .navbar.animate {
 #contact .btn:hover {
     opacity: 0.7;
 }
-
-/* #contact .btn:focus {
-    box-shadow: none !important;
-} */
