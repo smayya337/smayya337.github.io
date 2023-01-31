@@ -105,7 +105,6 @@ header .navbar.animate {
 
 #hero p {
     margin: 20px 0px 0px;
-    max-width: 640px;
     opacity: 0.8;
     font-weight: 500;
 }
@@ -207,23 +206,24 @@ header .navbar.animate {
     grid-template-columns: repeat(2, minmax(140px, 200px));
     gap: 0px 10px;
     padding: 0px;
-    margin: 20px 0px 0px;
-    overflow: hidden;
-    list-style: none;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    /* overflow: hidden; */
+    /* list-style: none; */
 }
 
 #about ul li {
     position: relative;
     margin-bottom: 10px;
-    padding-left: 20px;
+    /* padding-left: 1.25rem; */
 }
 
-#about ul li::before {
+/* #about ul li::before {
     content: "•";
     color: var(--primary-color);
     position: absolute;
     left: 0px;
-}
+} */
 
 #about .content {
     opacity: 0.9 !important;
