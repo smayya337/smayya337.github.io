@@ -1,1 +1,9 @@
+Sitemap: https://www.smayya.me/sitemap.xml
+
+# Don't allow PDFs
 User-agent: *
+Disallow: /*.pdf$
+
+# Don't allow images
+User-agent: *
+Disallow: /images/
