@@ -311,7 +311,7 @@ header .navbar.animate {
 }
 
 #experience .nav-item .nav-link {
-    color: var(--text-color) !important;
+    color: var(--text-secondary-color) !important;
     border-bottom: 2px solid transparent;
     border-radius: 0%;
     transition: none;
@@ -560,4 +560,10 @@ header .navbar.animate {
 
 #contact .btn:hover {
     opacity: 0.7;
+}
+
+/* general */
+
+.card-text {
+    color: var(--text-secondary-color) !important;
 }
