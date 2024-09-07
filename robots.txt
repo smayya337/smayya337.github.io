@@ -1,4 +1,4 @@
-Sitemap: https://www.smayya.me/sitemap.xml
+Sitemap: /sitemap.xml
 
 # Don't allow PDFs
 User-agent: *
