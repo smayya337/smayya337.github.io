@@ -7,3 +7,7 @@ Disallow: /*.pdf$
 # Don't allow images
 User-agent: *
 Disallow: /images/
+
+# Block the photos page
+User-agent: *
+Disallow: /photos/
